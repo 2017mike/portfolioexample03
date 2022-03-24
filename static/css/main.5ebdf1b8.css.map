@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5ebdf1b8.css","mappings":"AAAA,QACE,wBACF","sources":["components/Footer/footer.css"],"sourcesContent":[".footer {\n  background-color: cornflowerblue;\n}"],"names":[],"sourceRoot":""}
