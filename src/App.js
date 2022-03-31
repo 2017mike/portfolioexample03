@@ -15,6 +15,8 @@ function App() {
   return (
     <>
     <CssBaseline />
+
+
     <Navbar pageState={pageState} setPageState={setPageState} />
     {pageState.about?  <About />: ''}
     {pageState.work?  <Work />: ''}

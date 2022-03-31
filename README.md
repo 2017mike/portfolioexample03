@@ -150,3 +150,6 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+![alexandru-acea-XEB8y0nRRP4-unsplash](https://user-images.githubusercontent.com/82760568/161107454-00483440-b495-44db-b039-2160a4d25985.jpg)
